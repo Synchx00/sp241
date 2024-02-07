@@ -2,3 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L03 Create GitHub Pages
+ZCZC W00 70 L02 CLASSROOM/ZOOM meetings
+ZCZC W00 90 L61 Install Install Virtual Box
+ZCZC W00 45 L62 Install Virtual Debian Guest
+ZCZC W00 60 L31 Dress up my virtual guest
+ZCZC W00 15 L26 GnuPG key related
+ZCZC W00 05 L44 Create myscript.sh
