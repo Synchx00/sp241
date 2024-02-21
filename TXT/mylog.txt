@@ -9,3 +9,9 @@ ZCZC W00 45 L62 Install Virtual Debian Guest
 ZCZC W00 60 L31 Dress up my virtual guest
 ZCZC W00 15 L26 GnuPG key related
 ZCZC W00 05 L44 Create myscript.sh
+ZCZC W01 150 L02 CLASSROOM/ZOOM meetings
+ZCZC W01 40 L06 GSGS about djbx33a in C and Bash
+ZCZC W01 60 L11 Creating djbx33a program in Bash and C
+ZCZC W01 120 L11 Compiling Kernel
+ZCZC W01 20 L00 No space left on device, so i can not finish W01. Maybe i was using the wrong .config
+ZCZC W01 30 L63 Fixing my debian storage
