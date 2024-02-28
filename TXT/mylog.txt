@@ -15,3 +15,11 @@ ZCZC W01 60 L11 Creating djbx33a program in Bash and C
 ZCZC W01 120 L11 Compiling Kernel
 ZCZC W01 20 L00 No space left on device, so i can not finish W01. Maybe i was using the wrong .config
 ZCZC W01 30 L63 Fixing my debian storage
+ZCZC W02 150 L02 CLASSROOM/ZOOM meetings
+ZCZC W02 120 L88 Pull Day (Gym)
+ZCZC W02 120 L88 Push Day (Gym)
+ZCZC W02 120 L88 Rest Day (Gym)
+ZCZC W02 120 L88 Leg Day (Gym)
+ZCZC W02 150 L70 Study Distributed System
+ZCZC WO2 1440 L12 Finish Assginment Week #02
+
