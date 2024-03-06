@@ -16,7 +16,7 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
-REC2="D2041EE1E6A68CB17EC396C13106E5D9E848EAA9"
+REC2="1918061DFB019A8A226BAF3FE82106D043BB984F"
 # ####################### ####### #### ####
 # REC1: public key
 REC1="63FB12B215403B20"
