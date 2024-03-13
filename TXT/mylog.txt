@@ -30,3 +30,9 @@ ZCZC W03 15 L13 BBFS related
 ZCZC W03 2 L13 Download Assignment Script
 ZCZC W03 2 L13 Download md5sum file from scele
 ZCZC W03 45 L05 POP QUIZ related
+ZCZC W04 150 L02 CLASSROOM/ZOOM meetings
+ZCZC W04 40 L14 Learning getopt
+ZCZC W04 10 L14 C scripting about getopt
+ZCZC W04 10 L14 Updating (compiling) latest kernel
+ZCZC W04 20 L14 POP QUIZ related
+ZCZC W04 70 L09 Weekly Assignments
