@@ -41,3 +41,10 @@ ZCZC W05 50 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 8 L14 Updating (compiling) latest kernel
 ZCZC W05 120 L15 Assignment #05
 ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 15 L16 Updating debian guest
+ZCZC W06 3 L16 Download assignment script
+ZCZC W06 5 L16 Do POPQUIZ W06-1
+ZCZC W06 3 L16 Backup keys (POPQUIZ W06-2)
+ZCZC W06 10 L16 Do POPQUIZ W06-3 TARBALL
+ZCZC W06 15 L16 Writing WEEK06-VERIFY.sh
+ZCZC W06 15 L16 Writing WEEK06-GENERATE-200-FILES.sh
