@@ -48,3 +48,7 @@ ZCZC W06 3 L16 Backup keys (POPQUIZ W06-2)
 ZCZC W06 10 L16 Do POPQUIZ W06-3 TARBALL
 ZCZC W06 15 L16 Writing WEEK06-VERIFY.sh
 ZCZC W06 15 L16 Writing WEEK06-GENERATE-200-FILES.sh
+ZCZC W07 60 L17 Updating kernel version
+ZCZC W07 70 L17 Learning and understanding assignment source code
+ZCZC W07 20 L17 Write docusaurus blog
+ZCZC W07 180 L17 Write insertShareMemory.c
