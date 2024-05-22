@@ -60,3 +60,9 @@ ZCZC W09 10 L19 Booting with default kernel version (6.1.0)
 ZCZC W09 5 L19 Pull assigments script and attachment
 ZCZC W09 15 L19 Read and explore The Linux Kernel Module Programming Guide
 ZCZC W09 100 L19 Kernel programming (hello05.c - hello08.c)
+ZCZC W10 30 L00 General, etc.
+ZCZC W10 30 L01 SCELE related
+ZCZC W10 150 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 15 L03 GitHub related
+ZCZC W10 30 L05 POP QUIZ related
+ZCZC W10 180 L09 Weekly Assignments
